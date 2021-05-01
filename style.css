@@ -1,0 +1,40 @@
+.lo , .resultSection{
+    text-align: center;
+}
+
+.resultSection{
+
+    margin-top: 20px;
+}
+.allStar{
+   
+    cursor: pointer;
+    }
+    
+    
+    #span2{
+    visibility: hidden;
+    }
+    
+    #avarageSection{
+    /* display: none; */
+    }
+
+    .pMain{
+        color:red;
+        font-size: x-large;
+    }
+    #singlereting{
+
+        color:green;
+    }
+
+    #avarageSection{
+
+color:red;
+font-size: x-large;
+
+    }
+    #avarage,#totaleViews,#outOf{
+        color:green
+    }
